@@ -2,7 +2,7 @@
   
   Building a cryptocurrency used in gaming exchanges 
  
- ![1](pics/cosmos.png)
+ ![1](pics/cosmos.png | width=50)
   
 
 **What is [Cosmos Network](https://docs.cosmos.network/master/)?**:
